@@ -4,9 +4,9 @@ Esse diretório contém arquivos de dados e um script responsável por ler e tra
 
 Para a execução deste script, é necessário carregar as pastas de dados de entrada:
 
-Dados_1.npy
-Dados_2.npy
-Dados_3.npy
-Dados_4.npy
-Dados_5.npy
-Classes.npy
+Dados_1.npy;
+Dados_2.npy;
+Dados_3.npy;
+Dados_4.npy;
+Dados_5.npy;
+Classes.npy;
